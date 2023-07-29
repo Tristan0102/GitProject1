@@ -10,4 +10,7 @@ public class Day5Demo {
 	public static void getData() {
 		System.out.println("data");
 	}
+	public static void getInfo() {
+		System.out.println("info");
+	}
 }
